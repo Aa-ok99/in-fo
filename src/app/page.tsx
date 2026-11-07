@@ -48,7 +48,7 @@ Works on the Termux app </p>
             <a href="http://www.youtube.com/@as_oktm_ok" target="_blank" rel="noopener" className="p-4 bg-red-600 text-white rounded-full hover:scale-110 transition-transform">
               <Image src="/youtube.svg" alt="YouTube" width={24} height={24} />
             </a>
-            <a href="https://x.com/as_ok99" target="_blank" rel="noopener" className="p-4 bg-black text-white rounded-full hover:scale-110 transition-transform">
+            <a href="https://x.com/kan_ok99" target="_blank" rel="noopener" className="p-4 bg-black text-white rounded-full hover:scale-110 transition-transform">
               <Image src="/twitter.svg" alt="X (Twitter)" width={24} height={24} />
             </a>
             <a href="https://github.com/Aa-ok99" target="_blank" rel="noopener" className="p-4 bg-gray-800 text-white rounded-full hover:scale-110 transition-transform">
@@ -89,7 +89,7 @@ Works on the Termux app </p>
           <a href="http://www.youtube.com/@as_oktm_ok" target="_blank" rel="noopener" className="hover:text-blue-500">
             YouTube
           </a>
-          <a href="https://x.com/as_ok99" target="_blank" rel="noopener" className="hover:text-blue-500">
+          <a href="https://x.com/kan_ok99" target="_blank" rel="noopener" className="hover:text-blue-500">
             Twitter
           </a>
           <a href="https://github.com/Aa-ok99" target="_blank" rel="noopener" className="hover:text-blue-500">
